@@ -1,0 +1,7 @@
+Create FB account
+
+Author:Nila
+
+1. open signpage
+2.enter the user details
+3.Login
